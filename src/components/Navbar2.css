@@ -1,0 +1,13 @@
+.navbar-logo{
+    height: 30px;
+}
+
+.navLinks{
+    letter-spacing: 0.08rem;
+    display: flex;
+}
+
+.navLinks:hover{
+    color: #cd853f;
+    transform: scale(1.1);
+}

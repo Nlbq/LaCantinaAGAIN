@@ -1,0 +1,45 @@
+.wrapper{
+    height: auto;
+    width: auto;
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.project-detail-container{
+    /* height: 50%;
+    width: 60%; */
+    border: solid 2px;
+    
+    /* margin: auto; */
+    margin-top: 100px;
+
+}
+
+.card-content-detail{
+    background-color: #999;
+    margin-top: 100px;
+}
+
+.project-detail-name{
+    margin: 2%;
+    font-size: 22px;
+}
+
+.songs-detail{
+    padding: 2%; 
+}
+.songs-detail span{
+    line-height: 2rem;
+}
+
+.card-image-detail img{
+position: flex;
+/* height: 300px;
+width: 500px; */
+  /* max-width: 100%; */
+  /* max-height: 100%; */
+  object-fit: cover;
+}
