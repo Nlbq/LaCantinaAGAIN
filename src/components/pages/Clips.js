@@ -8,6 +8,8 @@ function Clips() {
     return (
         <div className="wrapper-clips">
             <VideoSlider />
+           
+            
             {/* <VideoPlayer /> */}
         </div>
     )

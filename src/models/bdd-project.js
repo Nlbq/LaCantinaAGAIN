@@ -1,20 +1,20 @@
 import Project from './project';
    
 export const PROJECTS: Project[] = [
- {
-  id: 16,
-  name: "Fragments",
-  picture: "/images/fragments.jpg",
-  songs: ["1. 1er mars 1953, Hayastan", "2. 11 octobre 1956, Aubenas", "3. 16 février 1963, Montauban", "4. 26 août 1966, Lima", "5. 30 mai 1895, Montmartre", "6. 2 avril 1725, Venise", "7. 22 décembre 1897, Bergerac", "8. 22 juillet 2004, Boulogne-Billancourt"],
-  created: "1er Décembre 2015"
- },
- {
-  id: 15,
-  name: "Fortune",
-  picture: "/images/fortune.jpg",
-  songs: ["1. Fortune", "2. Grandir", "3. Vents & Marées", "4. Seul", "5. Mémoires", "6. Rupture", "7. Fortune", "8. A Moitié Plaint"],
-  created: "15 Novembre 2016"
- },
+//  {
+//   id: 16,
+//   name: "Fragments",
+//   picture: "/images/fragments.jpg",
+//   songs: ["1. 1er mars 1953, Hayastan", "2. 11 octobre 1956, Aubenas", "3. 16 février 1963, Montauban", "4. 26 août 1966, Lima", "5. 30 mai 1895, Montmartre", "6. 2 avril 1725, Venise", "7. 22 décembre 1897, Bergerac", "8. 22 juillet 2004, Boulogne-Billancourt"],
+//   created: "1er Décembre 2015"
+//  },
+//  {
+//   id: 15,
+//   name: "Fortune",
+//   picture: "/images/fortune.jpg",
+//   songs: ["1. Fortune", "2. Grandir", "3. Vents & Marées", "4. Seul", "5. Mémoires", "6. Rupture", "7. Fortune", "8. A Moitié Plaint"],
+//   created: "15 Novembre 2016"
+//  },
  {
   id: 14,
   name: "Le vieil homme",
