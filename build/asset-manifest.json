@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b927f76.chunk.css",
+    "main.js": "/static/js/main.28da4553.chunk.js",
+    "main.js.map": "/static/js/main.28da4553.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
+    "static/js/2.f565250b.chunk.js": "/static/js/2.f565250b.chunk.js",
+    "static/js/2.f565250b.chunk.js.map": "/static/js/2.f565250b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.71654c5b69b5ef1526e801f98e3468de.js": "/precache-manifest.71654c5b69b5ef1526e801f98e3468de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1b927f76.chunk.css.map": "/static/css/main.1b927f76.chunk.css.map",
+    "static/js/2.f565250b.chunk.js.LICENSE.txt": "/static/js/2.f565250b.chunk.js.LICENSE.txt",
+    "static/media/SIGHHD.jpg": "/static/media/SIGHHD.5da15587.jpg",
+    "static/media/boheme.jpg": "/static/media/boheme.0800d486.jpg",
+    "static/media/kanagawa.jpg": "/static/media/kanagawa.42a3ddce.jpg",
+    "static/media/la cantina fond.jpg": "/static/media/la cantina fond.41f258cc.jpg",
+    "static/media/lacantinabackground.jpg": "/static/media/lacantinabackground.1d1f029b.jpg",
+    "static/media/waltz.jpg": "/static/media/waltz.9cc658e5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba1596e.js",
+    "static/js/2.f565250b.chunk.js",
+    "static/css/main.1b927f76.chunk.css",
+    "static/js/main.28da4553.chunk.js"
+  ]
+}
