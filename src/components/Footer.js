@@ -67,7 +67,7 @@ function Footer() {
             <img className="footer-logo" src="/images/logo.png" alt="" />
             </Link>
           </div>
-          <small className='website-rights'>Nicocode © 2020</small>
+          <small className='website-rights'>Nicocode © 2022</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
@@ -101,14 +101,14 @@ function Footer() {
             >
               <i className='fab fa-twitter' />
             </Link>
-            <Link
+            {/* <Link
               className='social-icon-link twitter'
               to='/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i className='fab fa-linkedin' />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </section>

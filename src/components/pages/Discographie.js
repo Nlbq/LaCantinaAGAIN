@@ -3,7 +3,7 @@ import React from 'react';
 // import Project from '../../models/project';
 import PROJECTS from '../../models/bdd-project';
 import ProjectList from './project-list';
-import Navbar2 from '../Navbar2';
+// import Navbar2 from '../Navbar2';
 
 
 export default function Discographie() {
@@ -12,7 +12,7 @@ export default function Discographie() {
 
     <>
 
-    <Navbar2 />
+    {/* <Navbar2 /> */}
     <ProjectList/>
 
 

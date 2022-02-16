@@ -27,7 +27,7 @@ function ProjectDetail({match}) {
       { project ? (
 
               <div className="project-detail-container">
-              <h2 className="header-project">{ project.name }</h2> 
+              {/* <h2 className="header-project">{ project.name }</h2>  */}
               <div className="card-content-detail">
               <div className="card-image-detail">
                 <img src={project.picture} alt={project.name}/>

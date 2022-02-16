@@ -11,6 +11,8 @@ function ProjectCard({project, id}) {
         history.push(`/Discographie/${id}`);
     }
 
+
+
     return (
 
         

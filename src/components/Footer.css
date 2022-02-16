@@ -3,6 +3,10 @@
   background-color: #242424;
   padding: 1rem 0 1rem 0;
   display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   flex-direction: column;
   justify-content: center;
   align-items: center;

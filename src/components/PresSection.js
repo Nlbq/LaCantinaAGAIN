@@ -30,7 +30,7 @@ const ColumnLeft = styled.div`
 
     h1{
         margin-bottom: 1rem;
-        font-size: clamp(1.5rem, 6vw, 2rem);
+        
     }
 
     p{
@@ -38,7 +38,9 @@ const ColumnLeft = styled.div`
     }
 
     @media screen and (max-width: 768px){
-        padding-bottom: -400px;
+        p{
+            margin-bottom:  1rem;
+        }
     }
 `;
 

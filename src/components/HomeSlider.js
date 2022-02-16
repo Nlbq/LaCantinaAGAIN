@@ -5,7 +5,6 @@ import {IoArrowForward, IoArrowBack} from 'react-icons/io5'
 
 const HomeSliderSection = styled.section`
     height: 100vh;
-    max-height: 1100px;
     position: relative;
     overflow : hidden;
 `;

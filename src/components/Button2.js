@@ -11,8 +11,8 @@ export const Button2 = styled(Link)`
     height: 25px;
     color: #fff;
     border: 1px solid #fff;
-    min-width: 100px;
-    max-width: 200px;
+    width: 125px;
+    height: 35px;
     cursor: pointer;
     text-decoration: none;
     transition: 0.3s;

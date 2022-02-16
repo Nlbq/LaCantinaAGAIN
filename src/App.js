@@ -11,6 +11,7 @@ import Dropdown from './components/Dropdown';
 import Contact from './components/pages/Contact';
 import ProjectsDetail from './components/project-detail';
 import ProjectPres from './components/ProjectPres';
+import Clips from './components/pages/Clips';
 
 
 
@@ -26,7 +27,7 @@ function App() {
   return (
     <>
       <Router>
-        {/* <Navbar2 toggle={toggle}/> */}
+        <Navbar2 toggle={toggle}/>
       <Dropdown isOpen= {isOpen} toggle={toggle}/>
         <Switch>
           <Route path='/home' exact component={Home} />
@@ -34,6 +35,7 @@ function App() {
           <Route path="/Discographie/:id" component={ProjectsDetail} />    
           <Route path='/products' component={Products} />
           <Route path='/contact' component={Contact} />
+          <Route path='/Clips' component={Clips} />
         </Switch>
         <Footer />
       </Router>
